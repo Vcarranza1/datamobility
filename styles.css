@@ -154,7 +154,7 @@ p { color: var(--text-light); }
 }
 
 .nav-logo img {
-  height: 48px; width: auto;
+  max-height: 50px; width: auto; vertical-align: middle;
 }
 
 .nav-links {
@@ -684,7 +684,7 @@ p { color: var(--text-light); }
 }
 
 .footer-brand .nav-logo img {
-  height: 44px;
+  max-height: 50px; width: auto; vertical-align: middle;
   filter: brightness(0) invert(1);
 }
 
