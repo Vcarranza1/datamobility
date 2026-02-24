@@ -155,7 +155,7 @@ p { color: var(--text-light); }
 }
 
 .nav-logo img {
-  height: 90px; width: auto; vertical-align: middle;
+  height: 70px; width: auto; vertical-align: middle;
   background: transparent; border: none; padding: 0;
 }
 
