@@ -1,12 +1,11 @@
-# DATA Mobility Partners — Pitch Site Overview
+# DATA Mobility Partners — Site Overview
 
 ## Context
-I'm pitching a website management contract to **DATA Mobility Partners**, a Northern Virginia 501(c)(3) nonprofit serving seniors, veterans, and individuals with disabilities. The pitch meeting is **Friday, May 8, 2026** with **Ray Billings** (executive director) over Zoom.
+A website redesign for **DATA Mobility Partners**, a Northern Virginia 501(c)(3) nonprofit serving seniors, veterans, and individuals with disabilities.
 
-- **Their current live site:** `datatrans.org` — the status quo I'm critiquing (accessibility, performance, dated design). I audited it along with their 990 financials.
-- **My proposed redesign (this repo):** hosted at `https://vcarranza1.github.io/datamobility/`
+- **Current live site:** `datatrans.org`
+- **Redesign (this repo):** hosted at `https://vcarranza1.github.io/datamobility/`
 - **Repo:** `github.com/Vcarranza1/datamobility` (main branch, clean working tree)
-- **Proposed terms:** $25/hr, capped at 20 hrs/month ($500 max), first month free.
 
 ## Tech stack
 Static multi-page site, hand-written HTML/CSS/JS, deployed via GitHub Pages.
@@ -44,9 +43,7 @@ Mostly logo + brand polish:
 - Initial commit was a full multi-page scaffold (`ea679bf Add full multi-page website for DATA Mobility Partners`)
 
 ## Where we are
-The site is **demo-ready** for the Friday pitch. Working tree is clean, deployed to GitHub Pages. The brand identity has settled on **navy + teal + soft white** (gold experiment rolled back). The structural skeleton across all 7 pages is in place.
+The site is **demo-ready**. Working tree is clean, deployed to GitHub Pages. The brand identity has settled on **navy + teal + soft white** (gold experiment rolled back). The structural skeleton across all 7 pages is in place.
 
-## Likely next steps before / during the meeting
-- Listen to Ray first; affirm existing work; propose specific quick wins doable inside the 20 hr/month cap
-- Anything touching the live `datatrans.org` is out of scope until the contract is signed
-- Possible polish areas if asked: real photography (replace Unsplash placeholders), real program content / stats from Ray, a working donation flow, accessibility pass, content for `about.html` governance section
+## Likely next steps
+- Possible polish areas: real photography (replace Unsplash placeholders), real program content / stats, a working donation flow, accessibility pass, content for `about.html` governance section
